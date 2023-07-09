@@ -6,7 +6,7 @@ body {
 
 .cal {
     max-width: 450px;
-    margin: 80px auto;
+    margin: 40px auto;
     box-shadow: 0 0 20px 0 rgb(230, 230, 230);
 }
 
@@ -61,4 +61,10 @@ button {
     color: #fff;
     font-size: 20px;
     border: none;
+}
+.tag{
+    text-align: center;
+}
+h1{
+     margin-top: 90px;
 }
